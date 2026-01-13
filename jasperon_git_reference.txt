@@ -1,5 +1,5 @@
 git
-commit - checks the health of your branch
+commit - creates a checkpoint and checks the health of your branch
 branch - creates a branch off with specified name
 checkout - switches the active branch to target brancg
 merge - combines target branch with active branch
